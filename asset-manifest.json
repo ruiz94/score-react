@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/score-react/static/css/main.fb1e2f7f.css",
+    "main.js": "/score-react/static/js/main.ca9a1178.js",
+    "index.html": "/score-react/index.html",
+    "main.fb1e2f7f.css.map": "/score-react/static/css/main.fb1e2f7f.css.map",
+    "main.ca9a1178.js.map": "/score-react/static/js/main.ca9a1178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1e2f7f.css",
+    "static/js/main.ca9a1178.js"
+  ]
+}
