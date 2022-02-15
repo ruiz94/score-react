@@ -1,0 +1,50 @@
+.game {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+.game .head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.game .head .inning{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.game .head .teams {
+  display: flex;
+  width: 100%;
+}
+.game .head .teams .team-score {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.game .head .teams .team-name {
+  font-weight: bold;
+}
+.game .head .teams .label{
+  font-size: .8rem;
+}
+.game .head .teams .team-item{
+  width: 50%;
+  padding: .2rem;
+  box-sizing: border-box;
+}
+.game .head .teams .team-item.turnAtBat {
+  background: #ee9b00;
+  border-radius: 10px;
+}
+.game .head .teams .team-1 {
+  text-align: end;
+  margin-right: .5rem;
+}
+.game .head .teams .team-2{
+  margin-left: .5rem;
+}
+.game .table {
+  margin-top: 1rem;
+}

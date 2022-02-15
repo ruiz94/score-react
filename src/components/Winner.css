@@ -1,0 +1,44 @@
+.winner{
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 2rem;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 2rem 0;
+}
+
+.name-winner{
+  font-size: 1.4rem;
+  border-bottom: 1px solid #666;
+  margin-bottom: 1rem;
+}
+.name-winner span{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.score{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.score .item{
+  width: 50%;
+}
+.score .item.item-1{
+  margin-right: 10px;
+  text-align: end;
+}
+.score .item .team-name{
+  font-weight: bold;
+}
+.score .item .team-score{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.table-register .row .inning {
+  width: 25%;
+}

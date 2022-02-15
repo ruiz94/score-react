@@ -1,0 +1,30 @@
+.Card.register{
+  padding-bottom: 2rem;
+}
+.register .title{
+  font-size: bold;
+  width: 100%;
+  text-align: center;
+}
+
+.table-register .row{
+  display: flex;
+  width: 100%;
+  text-align: center;
+  
+}
+.table-register .table-head div{
+  font-weight: bold;
+  color: #666;
+  border-bottom: 1px solid #666;
+}
+
+.table-register .row .inning{
+  width: 20%;
+  padding-top: 0.8rem;
+}
+.table-register .row .visitor, .table-register .row .home{
+  width: 40%;
+  border-left: 1px solid #666;
+  padding-top: .8rem;
+}
