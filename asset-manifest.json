@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/score-react/static/css/main.ebf5c1cd.css",
-    "main.js": "/score-react/static/js/main.f87b5184.js",
+    "main.js": "/score-react/static/js/main.8efe2006.js",
     "index.html": "/score-react/index.html",
     "main.ebf5c1cd.css.map": "/score-react/static/css/main.ebf5c1cd.css.map",
-    "main.f87b5184.js.map": "/score-react/static/js/main.f87b5184.js.map"
+    "main.8efe2006.js.map": "/score-react/static/js/main.8efe2006.js.map"
   },
   "entrypoints": [
     "static/css/main.ebf5c1cd.css",
-    "static/js/main.f87b5184.js"
+    "static/js/main.8efe2006.js"
   ]
 }
